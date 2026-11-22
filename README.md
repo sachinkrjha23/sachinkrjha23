@@ -2,11 +2,9 @@
 
 👋 Hi, I'm Sachin!
 
-🎓 Computer Science Student | Aspiring Software Developer
+💻 Full-stack developer building MERN and PERN apps with AI features, payments, tests and deployments.
 
-💻 Passionate about problem-solving, Data Structures & Algorithms, and building practical projects.
-
-🌱 Currently strengthening my DSA skills in C++ and exploring Web Development.
+🌱 Strengthening my DSA skills in C++ alongside web development.
 
 🚀 Always learning, experimenting, and building something new.
 
@@ -25,6 +23,26 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+### [InterviewFlow](https://github.com/sachinkrjha23/InterviewFlow-)
+AI-powered mock interview platform that runs personalized technical and HR sessions based on the user's target role and experience.
+
+`MongoDB` `Express` `React` `Node.js` `Firebase`
+
+🔗 [Live Demo](https://interviewflow-30ym.onrender.com/) · 💻 [Source Code](https://github.com/sachinkrjha23/InterviewFlow-)
+
+### [ShopSmart AI](https://github.com/sachinkrjha23/ShopSmart-AI)
+Full-stack, responsive e-commerce platform with Razorpay payments and Gemini AI features.
+
+`PostgreSQL` `Express` `React` `Node.js` `Supabase`
+
+🔗 [Live Demo](https://shopsmart-ai-oo00.onrender.com/) · 💻 [Source Code](https://github.com/sachinkrjha23/ShopSmart-AI)
+
+> ⏳ Both demos are hosted on Render's free tier, so the first load may take up to a minute to wake up.
 
 ---
 
@@ -56,8 +74,10 @@
 ### Databases & Backend Services
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### Testing
@@ -70,7 +90,6 @@
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 </p>
 
 ### Deployment & Hosting
@@ -91,24 +110,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sachinkrjha23&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=Data_Science" />
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/sachinkrjha23">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkrjha23&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-  </a>
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 </p>
 
 ---
